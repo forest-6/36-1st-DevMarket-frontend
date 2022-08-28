@@ -34,6 +34,40 @@ https://youtu.be/JfBnI8CU6us
 - 상세페이지
 - 상품 리뷰
 - 장바구니
+#### 내가 맡은 기능
+- 캐러셀
+- footer
+- 장바구니
+
+--- 
+
+### 캐러셀
+#### 자동 캐러셀
+#### 버튼이용 
+<img src="https://velog.velcdn.com/images/forest_xox/post/7ac0c180-59e6-4e18-9e9a-2412ce365bbf/image.gif">
+
+--- 
+
+### footer
+
+<img width="1262" alt="개발상회 footer" src="https://user-images.githubusercontent.com/92246102/187084505-cb3ba50a-a8be-47ff-8423-544bac102b77.png">
+
+--- 
+
+### 장바구니
+#### [장바구니] 개별삭제, 선택삭제 기능
+
+![장바구니  삭제기능](https://user-images.githubusercontent.com/92246102/187084348-8629faf6-81e8-459d-9636-39c795c3b57e.gif)
+
+#### [장바구니] 상품 상세페이지 이동
+![장바구니  상세페이지 이동](https://user-images.githubusercontent.com/92246102/187084394-c4669062-49c4-4611-8a38-0134a8a1281a.gif)
+
+#### [장바구니] 상품 수량 선택
+![장바구니  수량 선택](https://user-images.githubusercontent.com/92246102/187084401-3c60fc29-af02-49d6-b2a8-dfab0ccd2a52.gif)
+
+#### [장바구니] 상품 선택 
+![장바구니  제품 선택](https://user-images.githubusercontent.com/92246102/187084412-fb8d8fad-f03c-4939-97a1-e1e867493b19.gif)
+
 
 ### Reference
 
