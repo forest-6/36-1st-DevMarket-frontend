@@ -66,7 +66,7 @@ https://youtu.be/JfBnI8CU6us
 #### [장바구니] 상품 수량 선택
 ![장바구니  수량 선택](https://user-images.githubusercontent.com/92246102/187084401-3c60fc29-af02-49d6-b2a8-dfab0ccd2a52.gif)
 
-#### [장바구니] 상품 선택 
+#### [장바구니] 상품 선택 (선택된 상품만 가격창 반영)
 ![장바구니  제품 선택](https://user-images.githubusercontent.com/92246102/187084412-fb8d8fad-f03c-4939-97a1-e1e867493b19.gif)
 
 
